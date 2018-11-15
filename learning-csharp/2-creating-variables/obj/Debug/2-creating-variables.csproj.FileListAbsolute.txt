@@ -1,0 +1,7 @@
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\bin\Debug\2-creating-variables.exe.config
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\bin\Debug\2-creating-variables.exe
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\bin\Debug\2-creating-variables.pdb
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\obj\Debug\2-creating-variables.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\obj\Debug\2-creating-variables.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\obj\Debug\2-creating-variables.exe
+C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\2-creating-variables\obj\Debug\2-creating-variables.pdb
