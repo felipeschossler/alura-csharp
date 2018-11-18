@@ -5,3 +5,10 @@ C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\3-creati
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.exe
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.pdb
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\bin\Debug\3-creating-double-variables.exe.config
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\bin\Debug\3-creating-double-variables.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\bin\Debug\3-creating-double-variables.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\3-creating-double-variables\obj\Debug\3-creating-double-variables.pdb

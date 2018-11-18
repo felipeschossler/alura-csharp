@@ -5,3 +5,10 @@ C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\5-charac
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.exe
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\bin\Debug\5-characters-and-texts.exe.config
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\bin\Debug\5-characters-and-texts.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\bin\Debug\5-characters-and-texts.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\5-characters-and-texts\obj\Debug\5-characters-and-texts.pdb

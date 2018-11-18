@@ -5,3 +5,10 @@ C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\4-conver
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.csprojAssemblyReference.cache
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.exe
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\bin\Debug\4-conversion-and-other-types.exe.config
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\bin\Debug\4-conversion-and-other-types.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\bin\Debug\4-conversion-and-other-types.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\4-conversion-and-other-types\obj\Debug\4-conversion-and-other-types.pdb

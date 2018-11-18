@@ -5,3 +5,10 @@ C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\7-condit
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.csproj.CoreCompileInputs.cache
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.exe
 C:\Users\Felipe\Desktop\Repositories\Alura\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\bin\Debug\7-conditionals.exe.config
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\bin\Debug\7-conditionals.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\bin\Debug\7-conditionals.pdb
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.csprojAssemblyReference.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.exe
+C:\Users\Felipe\Desktop\Repositories\alura-csharp\learning-csharp\7-conditionals\obj\Debug\7-conditionals.pdb
